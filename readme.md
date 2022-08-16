@@ -1,4 +1,4 @@
-##  😀 Hi, I'm **Khaled**, Co-Founder & CEO at [Web3 Pros](http://web3pros.dev)
+##  😀 Hi, I'm **Khaled**, Project Manager & Full-Stack Developer at [Web3 Pros](http://web3pros.dev)
 
 ### ✨ [Web3 Pros](http://web3pros.dev) Vision
 > We are a global team of nomads that have lived through web1, and web2...
