@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<h1>
+  hey there I'm Khaled
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ##  😀 Hi, I'm **Khaled**, Project Manager & Full-Stack Developer at [Web3 Pros](http://web3pros.dev)
 
 ### ✨ [Web3 Pros](http://web3pros.dev) Vision
