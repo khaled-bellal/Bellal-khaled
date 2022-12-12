@@ -30,6 +30,9 @@ and are pushing the boundaries of web3.
 
 ---
 
+### :hammer_and_wrench: Languages and Tools :
+
+
 
 
 <div>
@@ -53,7 +56,12 @@ and are pushing the boundaries of web3.
 
 ---
 
+### :fire: My Stats :
 
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+
+---
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
