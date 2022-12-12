@@ -63,11 +63,7 @@ and are pushing the boundaries of web3.
 </div>
 
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-bellal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-bellal&show_icons=true&theme=gruvbox)
 ---
 
 
@@ -75,5 +71,12 @@ and are pushing the boundaries of web3.
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />&nbsp;](https://www.linkedin.com/in/bellalkhaled/)
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />&nbsp;](http://twitter.com/bellal_khaled5) 
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' />&nbsp;](https://www.instagram.com/_khaled_bellal_/)
+---
+
+
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-bellal&layout=compact"/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=khaled-bellal&show_icons=true&theme=gruvbox"/>
+
+
 ---
 
