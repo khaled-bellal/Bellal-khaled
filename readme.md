@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ##  😀 Hi, I'm **Khaled**, Project Manager & Full-Stack Developer at [Web3 Pros](http://web3pros.dev)
 
 ### ✨ [Web3 Pros](http://web3pros.dev) Vision
@@ -65,3 +69,4 @@ and are pushing the boundaries of web3.
 ---
 
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
