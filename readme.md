@@ -15,7 +15,7 @@
 ---
 
 ### 🤵‍♂️ About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dubai, at [Web3 Pros](http://web3pros.dev).
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dubai, at [Web3 Pros](http://web3pros.dev).
 
 
 ### ✨ [Web3 Pros](http://web3pros.dev) Vision
